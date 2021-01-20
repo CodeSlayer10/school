@@ -5,7 +5,6 @@ Glasses3D_Price = 5
 # Taken from a top 20 songs of 2020 chart.
 song_list = ["BLINDING LIGHTS", "DANCE MONKEY", "ROSES", "BEFORE YOU GO", "HEAD & HEART", "DON'T START NOW", "ROCKSTAR", "SOMEONE YOU LOVED", "	OWN IT", "WATERMELON SUGAR", "SAVAGE LOVE", "THE BOX", "SAY SO", "LONELY", "BREAKING ME", "ADORE YOU", "RAIN ON ME", "ROVER", "PHYSICAL", "MOOD"]
 list2 = list()
-list3 = list()
 fibonacci_list = list()
 
 
