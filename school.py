@@ -32,7 +32,7 @@ def random_song_player(num_of_songs):
         print("there are only 20 songs")
         quit()
 
-    for i in range(1, num_of_songs):
+    for i in range(0, num_of_songs):
         random_int = random.randint(0, 19)
         list2.append(song_list[random_int])
 
