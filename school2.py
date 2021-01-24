@@ -15,8 +15,7 @@ def fibonacci_sequence_generator(n):
             num2 = num3
             count += 1
             
-            
-            
+                 
 n = int(input("enter fibonacci sequence length: "))
 fibonacci_sequence_generator(n)
 print(fibonacci_list)
