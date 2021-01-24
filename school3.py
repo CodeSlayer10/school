@@ -10,7 +10,6 @@ def random_song_player(num_of_songs):
     if num_of_songs > 20:
         print("there are only 20 songs")
         quit()
-
     for i in range(0, num_of_songs):
         random_song = random.choice(song_list)
         song_list.pop(song_list.index(random_song))
